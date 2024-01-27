@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Cristian and I'm a Cloud Practitioner, from Milan, Italy</h2>
+<h2 align="center">Hi 👋! My name is Cristian and I'm a Cloud Practitioner, from Milan, Italy</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif"  />
+<img align="right" height="200" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif"  />
 
 ###
 
