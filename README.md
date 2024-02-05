@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Cristian and I'm an AWS Cloud Practitioner, from Milan, Italy</h2>
+<h1 align="center">Hi 👋! My name is Cristian and I'm an AWS Cloud Practitioner, from Milan, Italy</h1>
 
 ###
 
