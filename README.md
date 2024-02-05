@@ -7,29 +7,29 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HvmanBot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
-###
 
-<img align="right" height="200" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif"  />
+
+<img align="right" height="200" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif" />
 
 ###
 
 <div align="left">
   <h2>Code Languages and Tools:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
+  
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.png" height="30" alt="AWS logo"  />
-  <img width="12" />
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30" alt="VSC logo"  />
-  <img width="12" />
 </div>
 
 ###
+
 <h2>Let's keep in contact!:</h2>
 
 <div align="left">
@@ -41,9 +41,6 @@
 <a href="https://www.linkedin.com/in/crisvel94/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
-<a href="https://www.codedex.io/@HvmanBot" target="_blank">
-  <img src="https://members-csforall.imgix.net/members/logos/coin-logo.png" height="35" alt="Codedex logo"  />
-</a>
 </div>
 
 
@@ -53,7 +50,12 @@
 
 ###
 
+<h2>Take a look at my Code Games Activity and have fun you too ;) </h2>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/HvmanBot/count.svg?"/>
+<a href="https://www.codedex.io/@HvmanBot" target="_blank">
+  <img src="https://members-csforall.imgix.net/members/logos/coin-logo.png" height="35" alt="Codedex logo"  />
+</a>
+
+<div align="right">
+  Profile Views: <img src="https://profile-counter.glitch.me/HvmanBot/count.svg?"/>
 </div>
