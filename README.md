@@ -49,5 +49,5 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/HvmanBot/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/HvmanBot/count.svg?"/>
 </div>
