@@ -59,3 +59,9 @@
 <div align="right">
   Profile Views: <img src="https://profile-counter.glitch.me/HvmanBot/count.svg?"/>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HvmanBot/HvmanBot/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HvmanBot/HvmanBot/output/snake-light.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
