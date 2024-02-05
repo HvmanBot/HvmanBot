@@ -50,7 +50,7 @@
 
 ###
 
-<h2>Take a look at my Code Games Activity and have fun you too ;) </h2>
+<h2>Take a look at my Code Games activity and have fun you too ;) </h2>
 
 <a href="https://www.codedex.io/@HvmanBot" target="_blank">
   <img src="https://members-csforall.imgix.net/members/logos/coin-logo.png" height="35" alt="Codedex logo"  />
