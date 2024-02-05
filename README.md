@@ -28,7 +28,7 @@
 </div>
 
 ###
-
+<h2>Keep contact with me!:</h2>
 <div align="left">
 <a href="https://discord.com/users/crisvel." target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
