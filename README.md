@@ -22,11 +22,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.png" height="30" alt="AWS logo"  />
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30" alt="VSC logo"  />
+  
 </div>
+
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.png" height="60" alt="AWS logo"  />
 
 ###
 
@@ -53,7 +54,7 @@
 <h2>Take a look at my Code Games activity and have fun you too ;) </h2>
 
 <a href="https://www.codedex.io/@HvmanBot" target="_blank">
-  <img src="https://members-csforall.imgix.net/members/logos/coin-logo.png" height="35" alt="Codedex logo"  />
+  <img src="https://members-csforall.imgix.net/members/logos/coin-logo.png" height="40" alt="Codedex logo"  />
 </a>
 <a href="https://partyrock.aws/u/Hvmanbot/-CwlsRIi4/QUIZATOR!-the-AWS-Cloud-Practitioner-QUIZ" target="_blank">
   <img src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2024/01/AWS-PartyRock2.png?fit=600%2C315&ssl=1" height="50" alt="Partyrock AWS"  />
