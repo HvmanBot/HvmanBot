@@ -23,11 +23,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  </div>
-
-  <div>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.png" height="50" alt="AWS logo"  />
-  <img width="" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.png" height="30" alt="AWS logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30" alt="VSC logo"  />
+  <img width="12" />
 </div>
 
 ###
