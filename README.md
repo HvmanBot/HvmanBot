@@ -55,6 +55,10 @@
 <a href="https://www.codedex.io/@HvmanBot" target="_blank">
   <img src="https://members-csforall.imgix.net/members/logos/coin-logo.png" height="35" alt="Codedex logo"  />
 </a>
+<a href="https://partyrock.aws/u/Hvmanbot/-CwlsRIi4/QUIZATOR!-the-AWS-Cloud-Practitioner-QUIZ" target="_blank">
+  <img src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2024/01/AWS-PartyRock2.png?fit=600%2C315&ssl=1" height="50" alt="Partyrock AWS"  />
+</a>
+
 
 <div align="right">
   Profile Views: <img src="https://profile-counter.glitch.me/HvmanBot/count.svg?"/>
